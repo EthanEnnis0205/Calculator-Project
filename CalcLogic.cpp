@@ -6,7 +6,7 @@ const int SIGNIGICANTDIGITS = 5;
 // noOfEqs[] is used to keep track of the total number of sub equations [*,/,%,+,-]
 int noOfEqs[] = {0,0,0,0,0};
 
-// Flags used to dictate how to formate trace
+// Flags used to dictate how to format trace
 const bool includeTCHARmanipulation = true;
 
 
