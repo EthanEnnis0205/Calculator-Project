@@ -1,0 +1,9 @@
+https://learn.microsoft.com/en-us/windows/win32/api/winuser/
+https://microsoft.public.vc.language.narkive.com/BjhT4dWK/is-it-possible-to-set-tchar-to-null
+https://stackoverflow.com/questions/20328343/trying-to-capture-text-from-an-edit-box-on-button-click-and-then-display-to-anot
+https://stackoverflow.com/questions/62910578/hiding-and-showing-container-windows-based-on-tab
+https://learn.microsoft.com/en-us/previous-versions/visualstudio/visual-studio-6.0/aa272954(v=vs.60)?redirectedfrom=MSDN
+https://learn.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-getwindowtexta
+https://stackoverflow.com/questions/32200577/how-to-convert-tchar-to-double-visual-c#:~:text=use%20_tcstod()%20to%20convert%20TCHAR%20to%20double.
+https://www.geeksforgeeks.org/how-do-dynamic-arrays-work/
+https://cplusplus.com/forum/beginner/3811/
